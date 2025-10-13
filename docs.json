@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "percent",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373"
+    "primary": "#ef6400",
+    "light": "#ff7a1a",
+    "dark": "#d95700"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,21 +14,17 @@
         "tab": "Documentation",
         "groups": [
           {
-            "group": "Getting Started",
+            "group": "Overview",
             "pages": [
               "introduction",
+              "the-problem",
+              "quantum-markets",
               "why-zcombinator",
               "vision"
             ]
           },
           {
-            "group": "Technology",
-            "pages": [
-              "quantum-markets"
-            ]
-          },
-          {
-            "group": "Community",
+            "group": "Launch",
             "pages": [
               "leaderboard"
             ]
