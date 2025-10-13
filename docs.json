@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Technology",
+            "pages": [
+              "quantum-markets"
+            ]
+          },
+          {
             "group": "Community",
             "pages": [
               "leaderboard"
