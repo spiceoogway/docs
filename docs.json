@@ -87,5 +87,8 @@
       "discord": "https://discord.gg/Vf38Mqhxu5",
       "website": "https://percent.markets"
     }
+  },
+  "search": {
+    "prompt": false
   }
 }
