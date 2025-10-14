@@ -54,6 +54,11 @@
           "anchor": "Twitter",
           "href": "https://twitter.com/percentmarkets",
           "icon": "twitter"
+        },
+        {
+          "anchor": "Discord",
+          "href": "https://discord.gg/Vf38Mqhxu5",
+          "icon": "discord"
         }
       ]
     }
@@ -79,6 +84,7 @@
   "footer": {
     "socials": {
       "x": "https://twitter.com/percentmarkets",
+      "discord": "https://discord.gg/Vf38Mqhxu5",
       "website": "https://percent.markets"
     }
   }
